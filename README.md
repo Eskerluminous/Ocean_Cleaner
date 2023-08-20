@@ -1,9 +1,9 @@
 ﻿# Ocean_Cleaner
 
 
-Installation:
+Installation:\
 npm init vite@latest\
--file-name
-npm install
-npm i three
-npm run dev
+-file-name\
+npm install\
+npm i three\
+npm run dev\
