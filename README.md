@@ -6,4 +6,4 @@ npm init vite@latest\
 -file-name\
 npm install\
 npm i three\
-npm run dev\
+npm run dev
