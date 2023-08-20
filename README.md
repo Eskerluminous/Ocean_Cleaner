@@ -2,7 +2,7 @@
 
 
 Installation:
-npm init vite@latest
+npm init vite@latest\
 -file-name
 npm install
 npm i three
